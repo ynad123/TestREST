@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+    //Get Request
     private void processREST_GET() {
 
         String zahl1Txt = mTextView1.getText().toString();
@@ -71,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
 
         // Add the request to the queue
         Volley.newRequestQueue(this).add(stringRequest);
-
 
     }
 }
