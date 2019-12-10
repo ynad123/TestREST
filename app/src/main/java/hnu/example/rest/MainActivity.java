@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    //Get Request
+    //Get Request hsgdhagsdjg
     private void processREST_GET() {
 
         String zahl1Txt = mTextView1.getText().toString();
