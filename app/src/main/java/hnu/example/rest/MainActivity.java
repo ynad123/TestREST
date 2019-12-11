@@ -13,6 +13,9 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
+/**
+ * Test for Java-Doc
+ */
 public class MainActivity extends AppCompatActivity {
 
     private Button mButton_Send;
